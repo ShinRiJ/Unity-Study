@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|c:\\users\\jest1\\unityproject\\simpletankfight2d\\assets\\scripts\\barrel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barrel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|c:\\users\\jest1\\unityproject\\simpletankfight2d\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\assets\\scripts\\objectpooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectpooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\assets\\scripts\\shotabletank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shotabletank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\assets\\scripts\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\assets\\scripts\\inventoryeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC6DDDB-CC47-1384-148C-2B363EC288CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Barrel.cs",
+              "DocumentMoniker": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Barrel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Barrel.cs",
+              "ToolTip": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Barrel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Barrel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:41:18.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwCAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:58:06.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectPooler.cs",
+              "DocumentMoniker": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\ObjectPooler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPooler.cs",
+              "ToolTip": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\ObjectPooler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPooler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:59:59.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryEditor.cs",
+              "DocumentMoniker": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\InventoryEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryEditor.cs",
+              "ToolTip": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\InventoryEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:08:03.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory.cs",
+              "ToolTip": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:04:49.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Tank.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank.cs",
+              "ToolTip": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Tank.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:06:56.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAWwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:02:11.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShotableTank.cs",
+              "DocumentMoniker": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\ShotableTank.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShotableTank.cs",
+              "ToolTip": "C:\\Users\\jest1\\UnityProject\\SimpleTankFight2D\\Assets\\Scripts\\ShotableTank.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShotableTank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:00:22.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
